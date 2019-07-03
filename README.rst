@@ -1,4 +1,13 @@
 =======
+CC2D-R
+=======
+
+| CC2D-R is a fork of cocos2d. This project has been taken on because of lack of updates. cocos2d seems to have been discontinued. If 
+| you have found any bugs please report it to the issues page! Thanks. More information of cocos2d is below (reason, we havent but major update that ruins the documentaion. We will be soon making a new documetion because the old one doesn't really help that much! 
+
+
+
+=======
 cocos2d
 =======
 
@@ -102,3 +111,5 @@ Did you find any bug?
 
 Current repository is at
     + https://github.com/los-cocos/cocos
+    
+
